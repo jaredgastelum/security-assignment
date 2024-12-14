@@ -1,6 +1,6 @@
 ## Real World Example
 
-- In late 2023, the ResumeLooters hacker group used SQL injection to steal over 2 million user records from 65 websites, mainly targeting recruitment and retail sites
+- At the end of 2023, the ResumeLooters hacker group used SQL injection to steal over 2 million user records from 65 websites. They mainly targeted recruitment and retail sites
 
 ## Steps Needed to Fix
 

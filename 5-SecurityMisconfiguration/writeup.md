@@ -5,7 +5,7 @@
 ## Steps Needed to Fix
 
 - Add authentication using the [Authorize] attribute
-- Implement authorization check to ensure users can only access their own data
+- Implement authorization check to make sure users can only access their own data
 - Limit the exposed data to only necessary fields
 - Use HTTPS for all sensitive data transmissions
 

@@ -1,11 +1,11 @@
 ## Real World Example
 
-- In April 2022, the Hive ransomware group exploited ProxyShell vulnerability in Microsoft Exchange Server, using pass-the-hash techniques to steal NTLM hashes and deploy ransomware
+- In April 2022, the Hive ransomware group exploited ProxyShell vulnerability in Microsoft Exchange Server. They used pass-the-hash techniques to steal NTLM hashes and deploy ransomware
 
 ## Steps Needed to Fix
 
 - Use Security Code Scan static analyzer to detect cryptographic issues
-- Implement OWASP ASVS cryptographic requirements in your CI/CD pipeline
+- Implement OWASP ASVS cryptographic requirements in the CI/CD pipeline
 - Use dependency scanning to detect outdated cryptographic packages
 - Configure .NET's built-in security analyzers
 

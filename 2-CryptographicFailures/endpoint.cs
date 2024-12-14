@@ -1,7 +1,7 @@
 // Broken Endpoint
 // The vulnerability here is using SHA256 which is:
 // Too fast for password hashing
-// Lacks salt to prevent rainbow table attacks
+// Doesn't use salt to prevent rainbow table attacks
 // Vulnerable to parallel cracking attempts
 [ApiController]
 [Route("api/[controller]")]
