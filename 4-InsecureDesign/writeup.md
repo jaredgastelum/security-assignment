@@ -1,6 +1,6 @@
 ## Real World Example
 
-- The Verkada breach in 2021 occurred when hackers found hardcoded super admin credentials in an exposed internal development system, leading to unauthorized access of customer camera footage
+The Verkada breach in 2021 occurred when hackers found hardcoded super admin credentials in an exposed internal development system, leading to unauthorized access of customer camera footage
 
 ## Steps Needed to Fix
 

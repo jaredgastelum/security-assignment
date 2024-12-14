@@ -1,6 +1,6 @@
 ## Real World Example
 
-- In April 2022, the Hive ransomware group exploited ProxyShell vulnerability in Microsoft Exchange Server. They used pass-the-hash techniques to steal NTLM hashes and deploy ransomware
+In April 2022, the Hive ransomware group exploited ProxyShell vulnerability in Microsoft Exchange Server. They used pass-the-hash techniques to steal NTLM hashes and deploy ransomware
 
 ## Steps Needed to Fix
 

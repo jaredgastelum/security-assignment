@@ -1,6 +1,6 @@
 ## Real World Example
 
-- The Snowflake attack in 2024 led to multiple data breaches, including Ticketmaster's breach affecting 560 million customers. Hackers exploited stolen credentials to access customer data stored on Snowflake's platform
+The Snowflake attack in 2024 led to multiple data breaches, including Ticketmaster's breach affecting 560 million customers. Hackers exploited stolen credentials to access customer data stored on Snowflake's platform
 
 ## Steps Needed to Fix
 

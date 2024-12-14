@@ -1,6 +1,6 @@
 ## Real World Example
 
-- In November 2024, the Helldown ransomware group exploited CVE-2024-42057, which was a command injection vulnerability in Zyxel firewalls' IPSec VPN. They were able to breach 31 organizations' networks
+In November 2024, the Helldown ransomware group exploited CVE-2024-42057, which was a command injection vulnerability in Zyxel firewalls' IPSec VPN. They were able to breach 31 organizations' networks
 
 ## Steps Needed to Fix
 
