@@ -1,5 +1,3 @@
-
-
 // Broken Endpoint
 // This endpoint allows any authenticated user to access the details of any other user 
 // by simply providing the user's ID, violating the principle of least privilege

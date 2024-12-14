@@ -1,7 +1,0 @@
-
-
-// Broken Endpoint
-
-
-
-// Fixed Endpoint

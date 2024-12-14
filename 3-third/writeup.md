@@ -1,8 +1,8 @@
-## Description of Event
+## Real World Example
 
 - write about it here
 
-## Steps Need to Fix
+## Steps Needed to Fix
 
 -
 

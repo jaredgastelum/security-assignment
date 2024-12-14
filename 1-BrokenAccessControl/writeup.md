@@ -2,7 +2,7 @@
 
 - In November 2024, the Helldown ransomware group exploited CVE-2024-42057, a command injection vulnerability in Zyxel firewalls' IPSec VPN, to breach 31 organizations' networks5
 
-## Steps Need to Fix
+## Steps Needed to Fix
 
 - Implement proper authorization checks:
   - Use the [Authorize] attribute to ensure only authenticated users can access the endpoint.
